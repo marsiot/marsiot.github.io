@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Your Blog Title</title>
+    <link>http://www.yourblog.com</link>
+    <description>A description of your blog or website</description>
+    <language>en-us</language>
+    <item>
+      <title>Article Title</title>
+      <link>http://www.yourblog.com/article-url</link>
+      <description>A short description of the article</description>
+      <pubDate>Mon, 28 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <!-- Add more items here -->
+  </channel>
+</rss>
